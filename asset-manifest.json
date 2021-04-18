@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LandingPage/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/LandingPage/static/js/main.3403cf8e.chunk.js",
+    "main.js.map": "/LandingPage/static/js/main.3403cf8e.chunk.js.map",
+    "runtime-main.js": "/LandingPage/static/js/runtime-main.b46cf201.js",
+    "runtime-main.js.map": "/LandingPage/static/js/runtime-main.b46cf201.js.map",
+    "static/js/2.723e789d.chunk.js": "/LandingPage/static/js/2.723e789d.chunk.js",
+    "static/js/2.723e789d.chunk.js.map": "/LandingPage/static/js/2.723e789d.chunk.js.map",
+    "static/js/3.27d6019c.chunk.js": "/LandingPage/static/js/3.27d6019c.chunk.js",
+    "static/js/3.27d6019c.chunk.js.map": "/LandingPage/static/js/3.27d6019c.chunk.js.map",
+    "index.html": "/LandingPage/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/LandingPage/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.723e789d.chunk.js.LICENSE.txt": "/LandingPage/static/js/2.723e789d.chunk.js.LICENSE.txt",
+    "static/media/bangalore.390ffa60.jpg": "/LandingPage/static/media/bangalore.390ffa60.jpg",
+    "static/media/bgnew.56276733.jpg": "/LandingPage/static/media/bgnew.56276733.jpg",
+    "static/media/kerala.fad30834.jpg": "/LandingPage/static/media/kerala.fad30834.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b46cf201.js",
+    "static/js/2.723e789d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3403cf8e.chunk.js"
+  ]
+}
