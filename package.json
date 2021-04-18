@@ -1,17 +1,33 @@
 {
+  "homepage": "http://pk-abhiram.github.io/LandingPage",
   "name": "landing-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/data-grid": "^4.0.0-alpha.23",
+    "@material-ui/icons": "^4.11.2",
+    "@react-spring/three": "^9.0.0-rc.3",
+    "@react-spring/web": "^9.0.0-rc.3",
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
+    "drei": "^1.5.3",
+    "lerp": "^1.0.3",
+    "node-sass": "^4.14.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-intersection-observer": "^8.28.5",
     "react-scripts": "4.0.3",
+    "react-scroll": "^1.8.2",
+    "react-spring": "^8.0.27",
+    "react-three-fiber": "^4.2.21",
+    "three": "^0.120.1",
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +50,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
